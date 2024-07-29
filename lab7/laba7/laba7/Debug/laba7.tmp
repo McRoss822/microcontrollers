@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\labs_4_semestr\mk\lab7\laba7\laba7\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\Debug\laba7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>laba7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>laba7.map</FILE>
+  <FILE>laba7.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>76</LINE></RESET>
+  <TIMER5_COMPA_vect><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>30</LINE></TIMER5_COMPA_vect>
+  <TIMER5_COMPB_vect><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>43</LINE></TIMER5_COMPB_vect>
+  <COMPA_end><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>63</LINE></COMPA_end>
+  <COMPB_end><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>69</LINE></COMPB_end>
+  <main><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>120</LINE></main>
+  <check_btn_1><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>121</LINE></check_btn_1>
+  <check_btn_2><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>130</LINE></check_btn_2>
+  <delay_setup><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>141</LINE></delay_setup>
+  <end><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>138</LINE></end>
+  <delay><FILE>D:\labs_4_semestr\mk\lab7\laba7\laba7\main.asm</FILE><LINE>148</LINE></delay>
+ </LABELS>
+</ASSEMBLER_INFO>
